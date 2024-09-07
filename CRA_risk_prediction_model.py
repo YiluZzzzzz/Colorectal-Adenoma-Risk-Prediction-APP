@@ -465,7 +465,7 @@ b.place(x=1110, y=580, anchor='nw')   #把button也放到window里面
 
 
 
-window.mainloop()    #这个window会不断循环刷新，一定要有mainloop()
+window.mainloop()    
 
 
 
